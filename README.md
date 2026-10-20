@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Single-cell counting reveals a modest, nutrient-dependent growth advantage<br> of early <i>Pseudomonas fluorescens</i> biofilms over planktonic cells
+  Single-cell counting reveals a modest, nutrient-dependent growth advantage of early<br> <i>Pseudomonas fluorescens</i> biofilms over planktonic cells
 </h1>
 
 Analysis code and data for comparing the specific growth rate of *Pseudomonas fluorescens* growing as biofilms versus planktonic cultures, on glucose, glycerol and succinate, with and without casamino acids (CAA).
