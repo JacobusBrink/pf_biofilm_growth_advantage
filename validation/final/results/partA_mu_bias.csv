@@ -1,0 +1,5 @@
+carbon,images,mu_bias_per_h,ci95_low,ci95_high
+glucose,5,-0.0001,-0.0642,0.0639
+glycerol,5,0.0199,-0.0125,0.0522
+succinate,5,-0.0505,-0.2995,0.1984
+pooled,15,-0.0103,-0.0678,0.0472

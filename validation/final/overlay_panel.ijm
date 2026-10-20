@@ -1,0 +1,27 @@
+
+run("Duplicate...", "title=raw");
+selectImage("F26-1.tif");
+run("Duplicate...", "title=labels");
+run("Find Edges");
+setMinAndMax(0, 10);
+setAutoThreshold("Default dark 16-bit no-reset");
+//run("Threshold...");
+setThreshold(10, 65535, "raw");
+setMinAndMax(0, 10);
+setAutoThreshold("Default 16-bit no-reset");
+setMinAndMax(0, 10);
+setAutoThreshold("Default dark 16-bit no-reset");
+setOption("BlackBackground", true);
+run("Convert to Mask");
+run("Close");
+selectImage("raw");
+//run("Brightness/Contrast...");
+run("Enhance Contrast", "saturated=0.35");
+setOption("ScaleConversions", true);
+run("8-bit");
+run("Merge Channels...", "c4=raw c5=labels create");
+run("Stack to RGB");
+Stack.setXUnit("micron");
+run("Properties...", "channels=1 slices=1 frames=1 pixel_width=0.0916 pixel_height=0.0916 voxel_depth=0.0916");
+run("Scale Bar...", "width=2 height=4 horizontal bold hide");
+saveAs("Tiff", File.getDirectory(getInfo("macro.filepath")) + "outlines/S7_F26_glucose_3h.tif");

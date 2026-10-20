@@ -1,0 +1,4 @@
+group,images,manual_cells,automated_objects,true_positive,false_positive,false_negative,merged_objects,precision,recall,f1
+"low density (2-4 h, whole stacks)",12,81,81,79,2,2,1,0.975,0.975,0.975
+"high density (6-8 h, crops)",6,284,182,175,7,109,59,0.962,0.616,0.751
+all,18,365,263,254,9,111,60,0.966,0.696,0.809

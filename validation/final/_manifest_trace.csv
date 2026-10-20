@@ -1,0 +1,13 @@
+id,source_id,slice_in_image,kind,carbon,medium,timepoint_h,biological_replicate,technical_replicate
+B01,F05,7,crop,succinate,caa,8,2,9
+B02,F25,5,crop,glucose,no_caa,8,3,4
+B03,F20,6,whole,succinate,no_caa,8,2,4
+B04,F06,6,whole,glycerol,no_caa,8,1,4
+B05,F15,6,whole,succinate,caa,3,3,8
+B06,F03,6,crop,glucose,caa,8,1,5
+B07,F26,5,whole,glucose,caa,3,2,9
+B08,F02,6,whole,glucose,caa,5,1,10
+B09,F24,5,crop,glycerol,caa,3,1,5
+B10,F17,8,whole,succinate,caa,5,2,2
+B11,F08,6,crop,glycerol,caa,8,3,6
+B12,F23,5,crop,glycerol,caa,5,3,9

@@ -1,0 +1,3 @@
+id,timepoint_h,manual_cells_old,manual_cells_new,objects_old,objects_new,precision_old,precision_new,recall_old,recall_new,merged_old,merged_new,count_error_pct_old,count_error_pct_new
+V07,2,2,2,2,2,1.0,1.0,1.0,1.0,0,0,0.0,0.0
+V09,6,43,49,30,55,0.933,0.836,0.651,0.939,9,3,-30.2,12.2

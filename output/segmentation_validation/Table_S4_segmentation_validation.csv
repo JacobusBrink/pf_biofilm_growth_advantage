@@ -1,0 +1,9 @@
+﻿Group,Images,Manual cells,Automated objects,Precision,Recall,F1,Count error (%)
+All images,30,707,627,0.92,0.81,0.86,-11.3
+Low density (whole stacks),17,255,221,0.95,0.83,0.89,-13.3
+High density (crops),13,452,406,0.90,0.81,0.85,-10.2
+Glucose,10,251,226,0.90,0.81,0.85,-10.0
+Glycerol,10,240,215,0.93,0.83,0.88,-10.4
+Succinate,10,216,186,0.93,0.80,0.86,-13.9
+With casamino acids,21,538,485,0.91,0.82,0.86,-9.9
+Without casamino acids,9,169,142,0.96,0.81,0.88,-16.0

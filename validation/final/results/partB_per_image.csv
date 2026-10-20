@@ -1,0 +1,4 @@
+id,kind,carbon,medium,timepoint_h,manual_cells,automated_objects,f1_iou50,f1_iou60,f1_iou70,f1_iou80,f1_iou90,matched_iou50,mean_iou_matched,area_ratio_median,foreground_area_ratio,nematic_2d_manual,nematic_2d_auto,centroid_offset_um_median,orientation_error_deg_median
+B01,crop,succinate,caa,8,30,34,0.531,0.438,0.281,0.094,0.031,17,0.692,1.043,0.91,0.369,0.353,0.093,1.7
+B06,crop,glucose,caa,8,18,19,0.757,0.541,0.324,0.054,0.0,14,0.652,0.981,0.974,0.615,0.693,0.119,11.7
+B11,crop,glycerol,caa,8,29,27,0.679,0.571,0.321,0.036,0.0,19,0.682,1.106,0.97,0.386,0.54,0.111,3.9
