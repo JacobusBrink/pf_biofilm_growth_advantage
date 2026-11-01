@@ -40,8 +40,6 @@ for (d in subdirs) {
 
 # Theme and colours ------------------------------------------------------
 
-# Same theme as R/functions.R (copied so that these scripts do not depend on the
-# palette packages loaded there)
 theme_journal <- function(
   base_size = 9,
   base_family = "Arial",
@@ -115,7 +113,7 @@ condition_levels <- c(
 
 # Read the raw data --------------------------------------------------------
 
-# Biofilm: one BiofilmQ summary CSV per colony (re-segmented images).
+# Biofilm: one BiofilmQ summary CSV per colony (segmented images).
 # File names are <carbon><caa|control>_<time>h_br<bio rep>_tr<tech rep>.csv,
 # row 1 holds the units and row 2 the values. Returns one row per colony.
 read_biofilm_colonies <- function(dir = "input/biofilm") {

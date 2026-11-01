@@ -1,7 +1,6 @@
 # Introduction -----------------------------------------------------------
 
-# Figure 2: biofilm architecture at 8 h with CAA (re-segmented images).
-# Nematic order (removed from the paper) is not in the statistics tables.
+# Figure 2: biofilm architecture at 8 h with CAA (segmented images).
 # The section at the end adds the mean +/- SD and contrast estimates quoted
 # in the Results.
 #
@@ -33,7 +32,7 @@ library(ggpubr) # significance brackets via stat_pvalue_manual()
 library(rstatix) # add_significance()
 library(lme4) # mixed-effects models
 library(emmeans) # estimated marginal means and pairwise contrasts
-library(colorblindr)
+library(colorblindr) # palette_OkabeIto (colour-blind safe colours)
 
 # Load data --------------------------------------------------------------
 
@@ -129,10 +128,6 @@ stats_nearest_neighbor <- run_mixed("distance_to_nearest_neighbor_mean")
 stats_inter_cell_spacing <- run_mixed(
   "distance_inter_cell_spacing_mean_range20_mean"
 )
-# Nematic order removed from the paper (re-segmentation; Comment 5)
-# stats_nematic_order <- run_mixed(
-#   "architecture_nematic_order_parameter_range30_mean"
-# )
 
 # Biofilm architecture metrics by growth medium (timepoint 8) ------------
 
@@ -198,7 +193,7 @@ p1 <- ggplot(
     family = "Arial"
   ) +
 
-  # Apply the custom minimal journal theme (see theme_journal() in functions.R)
+  # Apply the custom minimal journal theme
   theme_journal(theme_name = "minimal")
 
 p1
@@ -265,7 +260,7 @@ p2 <- ggplot(
     family = "Arial"
   ) +
 
-  # Apply the custom minimal journal theme (see theme_journal() in functions.R)
+  # Apply the custom minimal journal theme
   theme_journal(theme_name = "minimal")
 
 p2
@@ -333,7 +328,7 @@ p3 <- ggplot(
     family = "Arial"
   ) +
 
-  # Apply the custom minimal journal theme (see theme_journal() in functions.R)
+  # Apply the custom minimal journal theme
   theme_journal(theme_name = "minimal")
 
 # Preview panel interactively (Positron's Plots pane handles the Arial font
@@ -401,7 +396,7 @@ p4 <- ggplot(
     family = "Arial"
   ) +
 
-  # Apply the custom minimal journal theme (see theme_journal() in functions.R)
+  # Apply the custom minimal journal theme
   theme_journal(theme_name = "minimal")
 
 p4
@@ -468,7 +463,7 @@ p5 <- ggplot(
     family = "Arial"
   ) +
 
-  # Apply the custom minimal journal theme (see theme_journal() in functions.R)
+  # Apply the custom minimal journal theme
   theme_journal(theme_name = "minimal")
 
 p5

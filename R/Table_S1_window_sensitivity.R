@@ -1,8 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Table S1: sensitivity of the specific growth rates, and of
-# the biofilm vs planktonic comparison, to the fitting window (Reviewer
-# Comment 7).
+# the biofilm vs planktonic comparison, to the fitting window.
 #   Scenarios: the selected windows (as in the main text), and common
 #   windows of 2-6, 2-7, 3-7 and 2-8 h applied to both lifestyles.
 #   For each scenario: mu (mean +/- SD of 3 replicates) per lifestyle, and

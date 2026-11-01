@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
-# Mean volume per segmented biofilm cell (Reviewer Comment 6: does cell size
-# differ between conditions?). Source of the Results sentence "In biofilms
+# Mean volume per segmented biofilm cell.
+# Source of the Results sentence "In biofilms
 # with CAA, the mean volume per segmented cell was 1.4-1.6 um3 between 3 and
 # 7 h and differed by less than 3% between carbon sources."
 #   - per colony: BiofilmQ Shape_Volume_mean (mean volume of the segmented

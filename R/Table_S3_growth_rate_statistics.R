@@ -1,8 +1,8 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Table S3: statistical analysis of the specific growth rates
-# (Reviewer Comment 10). Also the source of the statistics quoted in the
-# Results (lifestyle comparison) and in the response to Comment 10.
+# Also the source of the statistics quoted in the
+# Results (lifestyle comparison).
 #
 # Data: one growth rate per biological replicate (n = 3 per group).
 #   Biofilm:    cell counts, 3-7 h

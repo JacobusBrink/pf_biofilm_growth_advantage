@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Table S2: segmentation accuracy against blinded manual
-# annotation (Reviewer Comment 5). Also the source of every number in
+# annotation. Also the source of every number in
 # Supplementary Section S1 and in the Results validation paragraph.
 #
 # Input: the scored validation (validation/final/results/), made in Python

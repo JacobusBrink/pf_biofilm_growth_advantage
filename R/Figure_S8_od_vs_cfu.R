@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Figure S8: OD600 and colony-forming units (CFU) in growing
-# planktonic cultures with CAA (Reviewer Comment 6). Also the source of the
+# planktonic cultures with CAA. Also the source of the
 # Results numbers on CFU per OD600 and on mu from CFU vs mu from OD600.
 #
 # Experiment (Methods, OD600 Linearity and Viable Counts): 3 biological

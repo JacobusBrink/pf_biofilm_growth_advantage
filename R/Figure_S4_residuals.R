@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Figure S4: residuals of the log-linear regressions used to
-# estimate the specific growth rate (Reviewer Comment 7).
+# estimate the specific growth rate.
 #   Upper rows: the selected windows (00_setup.R).
 #   Lower rows: the original 2-8 h window of the first submission.
 # Residual = observed ln(y) minus the fitted line, per biological replicate.

@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Figure S3: hour-to-hour specific growth rate, the basis for
-# choosing the exponential-phase windows (Reviewer Comment 4).
+# choosing the exponential-phase windows.
 #   hour-to-hour rate = ln(y_t / y_t-1) per hour, plotted at the midpoint of
 #   each interval; y = OD600 x dilution factor (planktonic) or cells per
 #   colony (biofilm), mean of the technical replicates.

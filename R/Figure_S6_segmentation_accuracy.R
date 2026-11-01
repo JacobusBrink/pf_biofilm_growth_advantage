@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Figure S6: segmentation accuracy per image, across carbon
-# sources and time points (Reviewer Comment 5).
+# sources and time points.
 #   (a) automated vs manual cell count per image (line: 1:1)
 #   (b) count error and (c) recall per image over time; the grey band marks
 #       the 3-7 h window used for the biofilm growth rate

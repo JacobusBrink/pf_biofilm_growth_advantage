@@ -2,7 +2,7 @@
 
 # Supplementary Figure S2: biofilm growth curve of every biological
 # replicate (columns) and condition (rows), showing which timepoints were
-# used to estimate the specific growth rate (Reviewer Comment 4).
+# used to estimate the specific growth rate.
 #   - points: mean number of segmented cells per colony (10 colonies) +/- SD
 #     (the SD is colony-to-colony spread, not measurement error)
 #   - filled points (3-7 h): used for mu; open points: not used

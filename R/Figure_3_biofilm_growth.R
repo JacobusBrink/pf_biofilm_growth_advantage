@@ -1,7 +1,6 @@
 # Introduction -----------------------------------------------------------
 
 # Figure 3: biofilm growth curves (cells per colony) with and without CAA
-# (Reviewer Comment 12).
 #   - points: every colony (10 per biological replicate x 3 replicates)
 #   - points outside the 3-7 h window are faded
 #   - line: drawn over 3-7 h only, from the mean intercept and mean slope of

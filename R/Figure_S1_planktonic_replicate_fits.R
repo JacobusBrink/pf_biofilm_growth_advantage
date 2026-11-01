@@ -2,7 +2,7 @@
 
 # Supplementary Figure S1: planktonic growth curve of every biological
 # replicate (columns) and condition (rows), showing which timepoints were
-# used to estimate the specific growth rate (Reviewer Comment 4).
+# used to estimate the specific growth rate.
 #   - points: mean OD600 (x dilution factor) of 3 flasks +/- SD
 #   - filled points: inside the exponential window, used for mu
 #   - open points: outside the window

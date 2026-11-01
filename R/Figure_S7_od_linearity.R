@@ -1,7 +1,7 @@
 # Introduction -----------------------------------------------------------
 
 # Supplementary Figure S7: linearity of the OD600 readings (Libra S11)
-# (Reviewer Comment 6). Also the source of the Results numbers on OD600
+# Also the source of the Results numbers on OD600
 # linearity (log-log slope; deviation from proportionality at OD 0.3-0.4).
 #
 # Experiment (Methods, OD600 Linearity and Viable Counts): one culture per

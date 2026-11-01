@@ -1,7 +1,6 @@
 # Introduction -----------------------------------------------------------
 
 # Figure 4: planktonic growth curves (OD600) with and without CAA
-# (Reviewer Comment 12).
 #   - points: every flask (3 per biological replicate x 3 replicates),
 #     OD600 x dilution factor
 #   - points outside the exponential window are faded (with CAA: glucose and
